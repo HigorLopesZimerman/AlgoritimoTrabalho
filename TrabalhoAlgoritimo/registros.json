@@ -1,0 +1,20 @@
+{
+    "proximo_id": 5,
+    "registros": [
+        {
+            "id": 1,
+            "nome": "cavalo",
+            "idade": 69
+        },
+        {
+            "id": 3,
+            "nome": "carlinhos",
+            "idade": 24
+        },
+        {
+            "id": 4,
+            "nome": "ronaldo",
+            "idade": 35
+        }
+    ]
+}
